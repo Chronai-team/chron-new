@@ -2,7 +2,8 @@
 ![image](https://github.com/user-attachments/assets/bca84220-8247-4d7a-9066-a1180f562c82)
 
 Chron AI is a sophisticated analysis tool for evaluating AI/ML projects, providing comprehensive assessments across multiple dimensions including market success, technical implementation, and code quality.
-CA:CjiYkyHjNVrpEUoPRtFmmyYRnbwVyzNgNuLt2SAkpump
+
+# CA:CjiYkyHjNVrpEUoPRtFmmyYRnbwVyzNgNuLt2SAkpump
 
 ## Features
 
